@@ -12,7 +12,7 @@ Clone this repository for use with:
     $ cd figtest
     $ fig up -d
 
-If everything is ok, the web app should now be listening on port 5000. So you can browse to http://<Your host>:5000 to see it.
+If everything is ok, the web app should now be listening on port 5000. So you can browse to http://\<Your host\>:5000 to see it.
 
 ## For boot2docker user on Windows
 
