@@ -1,10 +1,10 @@
 # A simple Python Web Service configuration
 web:
   build: .
+  command: python app.py
   ports:
    - "5000:5000"
-  command: python app.py
   links:
    - redis
 redis:
-  image: dockerfile/redis
+  image: redis:latest

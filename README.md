@@ -4,7 +4,7 @@ A basic Python web app to demonstrate fig (Fast, isolated development environmen
 
 ## How to use
 
-For the introduction, see [Fig Quickstart] (http://www.fig.sh/index.html).
+For the introduction, see [Fig Quickstart](http://www.fig.sh/index.html).
 
 Clone this repository for use with:
 
